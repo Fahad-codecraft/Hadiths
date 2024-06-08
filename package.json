@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "canvas": "^2.11.2",
     "express": "^4.19.2",
     "html2canvas": "^1.4.1",
     "mongoose": "^8.4.1",
